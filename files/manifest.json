@@ -1,0 +1,14 @@
+{
+    "background_color": "#FFFFFF",
+    "display": "fullscreen",
+    "icons": [
+    {
+        "sizes": "200x200",
+        "src": "logo.png",
+        "type": "image/png"
+    }],
+    "name": "电影先生 Dianying.im",
+    "short_name": "电影先生",
+    "start_url": "https://dianying.im/?pwa",
+    "theme_color": "#FFFFFF"
+}
